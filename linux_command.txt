@@ -1,0 +1,16 @@
+$ mkdir test1
+$ cd test1
+$ cat > ROBOT_CLASS.txt
+$ git init
+$ git add .
+$ git commit -m "first commit"
+$ git remote add origin https://github.com/robot-class/final.git
+$ git push -u origin master
+
+
+
+
+
+
+
+
